@@ -425,16 +425,16 @@ html {
   background-position: center;
 }
 .wrapper .column:nth-child(1) .inner {
-  background-image: url('/img/galeria/001.jpg');
+  background-image: url('img/galeria/001.jpg');
 }
 .wrapper .column:nth-child(2) .inner {
-  background-image: url('/img/galeria/002.jpg');
+  background-image: url('img/galeria/002.jpg');
 }
 .wrapper .column:nth-child(3) .inner {
-  background-image: url('/img/galeria/003.jpg');
+  background-image: url('img/galeria/003.jpg');
 }
 .wrapper .column:nth-child(4) .inner {
-  background-image: url('/img/galeria/004.jpg');
+  background-image: url('img/galeria/004.jpg');
 }
 .wrapper .column:nth-child(5) .inner {
   background-image: url('/img/galeria/005.jpg');
